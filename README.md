@@ -20,6 +20,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Security Operations
 
+- [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+
 ## Compliance Automation
 
 ---
