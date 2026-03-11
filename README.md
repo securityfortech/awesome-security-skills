@@ -25,6 +25,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Blogs & Writeups](#blogs--writeups)
 - [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
+- [AI-Powered Tools](#ai-powered-tools)
 
 ---
 
@@ -201,6 +202,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Risky Business](https://risky.biz) - News and in-depth interviews in information security.
 - [Smashing Security](https://www.smashingsecurity.com) - Cybersecurity news and discussion.
 - [Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans) - Social engineering and human element of security.
+
+---
+
+## AI-Powered Tools
+
+- [hacking-skills](https://github.com/securityfortech/hacking-skills) - Claude Code skills for finding bugs and vulnerabilities — bug bounty, pentest, CTF, and code review.
 
 ---
 
