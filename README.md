@@ -17,6 +17,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Offensive Security
 
 - [hacking-skills](https://github.com/securityfortech/hacking-skills) - Claude Code skills for finding bugs and vulnerabilities — bug bounty, pentest, CTF, and code review.
+- [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties.
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 
 ## Security Operations
 
