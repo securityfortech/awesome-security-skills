@@ -1,6 +1,6 @@
 # Awesome Security Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources for learning and improving offensive security and hacking skills.
+> A curated list of Claude skills projects for offensive security.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
@@ -8,11 +8,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contents
 
-- [AI-Powered Tools](#ai-powered-tools)
+- [Claude Skills](#claude-skills)
 
 ---
 
-## AI-Powered Tools
+## Claude Skills
 
 - [hacking-skills](https://github.com/securityfortech/hacking-skills) - Claude Code skills for finding bugs and vulnerabilities — bug bounty, pentest, CTF, and code review.
 
