@@ -1,8 +1,8 @@
 # Awesome Security Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> **A curated list of Claude Code skills, agents, and slash commands built for security professionals.**
->
-> Supercharge [Claude Code](https://claude.ai/code) with community-built security skills — purpose-built for bug bounty hunters, penetration testers, CTF players, and security engineers. Drop them into your workflow and let AI handle the heavy lifting: recon, exploitation, code audits, and more.
+**A curated list of Claude Code skills, agents, and slash commands built for security professionals.**
+
+Supercharge [Claude Code](https://claude.ai/code) with community-built security skills — purpose-built for bug bounty hunters, penetration testers, CTF players, and security engineers. Drop them into your workflow and let AI handle the heavy lifting: recon, exploitation, code audits, and more.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
