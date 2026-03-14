@@ -1,6 +1,8 @@
 # Awesome Security Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Claude skills projects for security.
+> **A curated list of Claude Code skills, agents, and slash commands built for security professionals.**
+>
+> Supercharge [Claude Code](https://claude.ai/code) with community-built security skills — purpose-built for bug bounty hunters, penetration testers, CTF players, and security engineers. Drop them into your workflow and let AI handle the heavy lifting: recon, exploitation, code audits, and more.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
@@ -15,6 +17,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Offensive Security 👾
 
+Skills for bug bounty, pentesting, CTFs, and vulnerability research.
+
 - [0xiehnnkta/nemesis-auditor](https://github.com/0xiehnnkta/nemesis-auditor) - Iterative deep-logic security audit agent for Claude Code.
 - [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties.
 - [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security's collection of AppSec skills for AI coding agents.
@@ -24,6 +28,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - AI-powered skills, agents, and slash commands for penetration testing, bug bounty hunting, and security research — includes 35+ specialized agents for OWASP Top 10 vulnerabilities and 264+ PortSwigger lab walkthroughs.
 
 ## Secure Code Reviews 👀
+
+Skills for finding vulnerabilities in source code and shipping secure software.
 
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - Claude Code skill for writing secure code and preventing common vulnerabilities.
