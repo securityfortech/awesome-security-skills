@@ -20,10 +20,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security's collection of AppSec skills for AI coding agents.
 - [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - AI-powered skills, agents, and slash commands for penetration testing, bug bounty hunting, and security research — includes 35+ specialized agents for OWASP Top 10 vulnerabilities and 264+ PortSwigger lab walkthroughs.
+- [0xiehnnkta/nemesis-auditor](https://github.com/0xiehnnkta/nemesis-auditor) - Iterative deep-logic security audit agent for Claude Code.
 
 ## Security Operations 🔧
 
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - Claude Code skill for writing secure code and preventing common vulnerabilities.
 
 ---
 
