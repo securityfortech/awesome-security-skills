@@ -15,12 +15,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Offensive Security 👾
 
-- [securityfortech/hacking-skills](https://github.com/securityfortech/hacking-skills) - Claude Code skills for finding bugs and vulnerabilities — bug bounty, pentest, CTF, and code review.
-- [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties.
-- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
-- [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security's collection of AppSec skills for AI coding agents.
-- [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - AI-powered skills, agents, and slash commands for penetration testing, bug bounty hunting, and security research — includes 35+ specialized agents for OWASP Top 10 vulnerabilities and 264+ PortSwigger lab walkthroughs.
 - [0xiehnnkta/nemesis-auditor](https://github.com/0xiehnnkta/nemesis-auditor) - Iterative deep-logic security audit agent for Claude Code.
+- [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties.
+- [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security's collection of AppSec skills for AI coding agents.
+- [securityfortech/hacking-skills](https://github.com/securityfortech/hacking-skills) - Claude Code skills for finding bugs and vulnerabilities — bug bounty, pentest, CTF, and code review.
+- [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - Claude Code skills for bug bounty hunting.
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
+- [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - AI-powered skills, agents, and slash commands for penetration testing, bug bounty hunting, and security research — includes 35+ specialized agents for OWASP Top 10 vulnerabilities and 264+ PortSwigger lab walkthroughs.
 
 ## Secure Code Reviews 👀
 
