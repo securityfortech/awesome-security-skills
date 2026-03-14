@@ -13,7 +13,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ---
 
-## Offensive Security 🗡️
+## Offensive Security 👾
 
 - [securityfortech/hacking-skills](https://github.com/securityfortech/hacking-skills) - Claude Code skills for finding bugs and vulnerabilities — bug bounty, pentest, CTF, and code review.
 - [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties.
@@ -22,7 +22,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - AI-powered skills, agents, and slash commands for penetration testing, bug bounty hunting, and security research — includes 35+ specialized agents for OWASP Top 10 vulnerabilities and 264+ PortSwigger lab walkthroughs.
 - [0xiehnnkta/nemesis-auditor](https://github.com/0xiehnnkta/nemesis-auditor) - Iterative deep-logic security audit agent for Claude Code.
 
-## Secure Code Reviews 🔧
+## Secure Code Reviews 👀
 
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - Claude Code skill for writing secure code and preventing common vulnerabilities.
