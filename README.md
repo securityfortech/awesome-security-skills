@@ -22,6 +22,7 @@ Skills for bug bounty, pentesting, CTFs, and vulnerability research.
 - [0xiehnnkta/nemesis-auditor](https://github.com/0xiehnnkta/nemesis-auditor) - Iterative deep-logic security audit agent for Claude Code.
 - [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties.
 - [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security's collection of AppSec skills for AI coding agents.
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/tree/main/skills) - 734+ structured cybersecurity skills for AI agents, MITRE ATT&CK mapped, compatible with Claude Code, Copilot, Codex CLI, Cursor, and Gemini CLI.
 - [securityfortech/hacking-skills](https://github.com/securityfortech/hacking-skills) - Claude Code skills for finding bugs and vulnerabilities — bug bounty, pentest, CTF, and code review.
 - [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - Claude Code skills for bug bounty hunting.
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
