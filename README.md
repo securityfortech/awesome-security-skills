@@ -12,6 +12,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Offensive Security](#offensive-security-)
 - [Secure Code Reviews](#secure-code-reviews-)
+- [Threat Detection & SOC](#threat-detection--soc-)
 
 ---
 
@@ -34,6 +35,14 @@ Skills for finding vulnerabilities in source code and shipping secure software.
 
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - Claude Code skill for writing secure code and preventing common vulnerabilities.
+
+---
+
+## Threat Detection & SOC 🛡️
+
+Skills for threat detection, incident response, and security operations.
+
+- [SecurityClaw/SecurityClaw](https://github.com/SecurityClaw/SecurityClaw/tree/main/skills) - Modular skill-based autonomous SOC agent with skills for threat detection, anomaly triage, forensic examination, and OpenSearch-based security monitoring.
 
 ---
 
