@@ -36,8 +36,6 @@ Skills for finding vulnerabilities in source code and shipping secure software.
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - Claude Code skill for writing secure code and preventing common vulnerabilities.
 
----
-
 ## Threat Detection & SOC 🛡️
 
 Skills for threat detection, incident response, and security operations.
