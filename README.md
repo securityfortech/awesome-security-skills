@@ -41,6 +41,7 @@ Skills for finding vulnerabilities in source code and shipping secure software.
 Skills for threat detection, incident response, and security operations.
 
 - [SecurityClaw/SecurityClaw](https://github.com/SecurityClaw/SecurityClaw/tree/main/skills) - Modular skill-based autonomous SOC agent with skills for threat detection, anomaly triage, forensic examination, and OpenSearch-based security monitoring.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ---
 
