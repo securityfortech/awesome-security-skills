@@ -28,6 +28,7 @@ Skills for bug bounty, pentesting, CTFs, and vulnerability research.
 - [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - Claude Code skills for bug bounty hunting.
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - [transilienceai/communitytools](https://github.com/transilienceai/communitytools) - AI-powered skills, agents, and slash commands for penetration testing, bug bounty hunting, and security research — includes 35+ specialized agents for OWASP Top 10 vulnerabilities and 264+ PortSwigger lab walkthroughs.
+- [morluto/rea: reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) - Investigate shipped binaries and JavaScript/Electron apps with local REA CLI/MCP evidence; install REA separately and bring Hopper, Ghidra, or IDA for deep native analysis.
 
 ## Secure Code Reviews 👀
 
