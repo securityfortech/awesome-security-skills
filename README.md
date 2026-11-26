@@ -1,4 +1,4 @@
-# Awesome Security Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome Security Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **A curated list of Claude Code skills, agents, and slash commands built for security professionals.**
 
@@ -35,6 +35,7 @@ Skills for finding vulnerabilities in source code and shipping secure software.
 
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) - Claude Code skill for writing secure code and preventing common vulnerabilities.
+- [engrshoaibh/owasp-security-audit-skill](https://github.com/engrshoaibh/owasp-security-audit-skill) - OWASP-aligned security audit skill and stdlib loophole scanner for Claude Code, Cursor, Codex, and other AI coding agents (Top 10:2025, API, LLM, optional ZAP DAST).
 
 ## Threat Detection & SOC 🛡️
 
